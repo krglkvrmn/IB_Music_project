@@ -1,6 +1,6 @@
 # Machine learning on audio data
 
-This project was carried out within the Python Programming course in Bioinformatics Institute.
+This project was carried out within the Python Programming course at Bioinformatics Institute.
 
 The goal of the project was to implement different ML methods on audio data. This included **music genre classification**, **music segmentation** and **music clustering**.
 
